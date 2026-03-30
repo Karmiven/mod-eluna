@@ -7,8 +7,6 @@
 #ifndef CREATUREMETHODS_H
 #define CREATUREMETHODS_H
 
-#include "ThreatManager.h"
-
 /***
  * Non-[Player] controlled [Unit]s (i.e. NPCs).
  *
