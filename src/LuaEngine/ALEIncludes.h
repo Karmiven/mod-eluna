@@ -53,7 +53,6 @@
 #include "Vehicle.h"
 #include "ArenaTeam.h"
 #include "WorldSessionMgr.h"
-#include "ThreatManager.h"
 
 typedef Opcodes                 OpcodesList;
 
